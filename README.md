@@ -20,11 +20,11 @@ Abra o terminal na pasta `backend` e instale as dependências:
 cd backend
 npm install express cors
 Para rodar o servidor:
-
+node server.js
 ```
 ```bash
 
-node server.js
+
 2. Rodar o Frontend
 Você pode usar a extensão "Live Server" do VSCode ou o pacote serve. Certifique-se de que ele rode na porta 3000.
 
