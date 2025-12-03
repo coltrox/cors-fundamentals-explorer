@@ -1,8 +1,6 @@
-# 🚀 Atividade Prática: CORS & SOP (Dark Mode)
+# 🚀 Atividade Prática: CORS & SOP
 
 Este projeto foi desenvolvido para demonstrar na prática o funcionamento da **Política de Mesma Origem (SOP)** e como resolver bloqueios de segurança utilizando **CORS** (Cross-Origin Resource Sharing).
-
-O projeto conta com uma interface estilizada (Dark Mode) que simula um terminal para exibir os logs de conexão.
 
 ## 🛠️ Tecnologias
 * **Backend:** Node.js + Express
