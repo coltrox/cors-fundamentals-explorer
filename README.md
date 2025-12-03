@@ -30,7 +30,7 @@ Você pode usar a extensão "Live Server" do VSCode ou o pacote serve. Certifiqu
 
 npx serve -l 3000
 ```
-🧪 Roteiro de Testes
+##🧪 Roteiro de Testes
 Teste de Bloqueio (Erro):
 
 No arquivo server.js, mantenha a linha app.use(cors()) comentada.
@@ -39,7 +39,7 @@ Clique em "Acessar API".
 
 Resultado esperado: Erro vermelho no "terminal" da tela e erro de CORS no console (F12).
 
-Teste de Sucesso:
+##Teste de Sucesso:
 
 Descomente a linha do cors() no backend.
 
